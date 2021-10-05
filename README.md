@@ -1,4 +1,4 @@
-# EdiTTS
+# EdiTTS: Score-based Editing for Controllable Text-to-Speech
 
 This repository contains code for a user editable text-to-speech system, namely EdiTTS.
 
