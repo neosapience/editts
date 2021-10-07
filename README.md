@@ -47,7 +47,7 @@ The following checkpoints are already included as part of this repository, under
 
 ## Pitch Shifting
 
-1. Prepare an input file containing samples for speech generation. Mark the segment to be edited via a vertical bar separator, `|`. For instance,
+1. Prepare an input file containing samples for speech generation. Mark the segment to be edited via a vertical bar separator, `|`. For instance, a single sample might look like
 
    > In | the face of impediments confessedly discouraging |
 
@@ -66,7 +66,7 @@ The following checkpoints are already included as part of this repository, under
 
 ## Content Replacement
 
-1. Prepare an input file containing two sentences. Concatenate them with `#` and mark the parts to be replaced with a vertical bar separator. For instance,
+1. Prepare an input file containing pairs of sentences. Concatenate each pair with `#` and mark the parts to be replaced with a vertical bar separator. For instance, a single pair might look like
 
    > Three others subsequently | identified | Oswald from a photograph. #Three others subsequently | recognized | Oswald from a photograph.
 
