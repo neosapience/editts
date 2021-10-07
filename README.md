@@ -85,3 +85,7 @@ The following checkpoints are already included as part of this repository, under
 - [Grad-TTS](https://github.com/huawei-noah/Speech-Backbones/tree/main/Grad-TTS)
 - [HiFi-GAN](https://github.com/jik876/hifi-gan)
 - [SDEdit](https://github.com/ermongroup/SDEdit)
+
+## License
+
+Released under the [modified GNU General Public License](LICENSE).
