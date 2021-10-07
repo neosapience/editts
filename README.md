@@ -36,13 +36,14 @@ Please cite this work as follows.
    python setup.py build_ext --inplace
    ```
 
-3. Download model checkpoints and place them under the `checkpts` directory.
-
-   - [Grad-TTS (old ver.)](https://drive.google.com/drive/folders/1grsfccJbmEuSBGQExQKr3cVxNV0xEOZ7)
-
-- - [HiFi-GAN (LJ_FT_T2_V1 ver.)](https://drive.google.com/drive/folders/1-eEYTB5Av9jNql0WGBlRoi-WH2J7bp5Y)
-
 For more information, refer to [the official repository of Grad-TTS](https://github.com/huawei-noah/Speech-Backbones/tree/main/Grad-TTS).
+
+## Checkpoints
+
+The following checkpoints are already included as part of this repository, under [`checkpts`](checkpts). 
+
+- [Grad-TTS (old ver.)](https://drive.google.com/drive/folders/1grsfccJbmEuSBGQExQKr3cVxNV0xEOZ7)
+- [HiFi-GAN (LJ_FT_T2_V1 ver.)](https://drive.google.com/drive/folders/1-eEYTB5Av9jNql0WGBlRoi-WH2J7bp5Y)
 
 ## Pitch Shifting
 
