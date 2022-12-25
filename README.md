@@ -11,10 +11,13 @@ Official implementation of [EdiTTS: Score-based Editing for Controllable Text-to
 Please cite this work as follows.
 
 ```bibtex
-@misc{tae&kim2021editts,
-      title={EdiTTS: Score-based Editing for Controllable Text-to-Speech}, 
-      author={Jaesung Tae and Hyeongju Kim and Taesu Kim},
-      year={2021}
+@inproceedings{tae22_interspeech,
+  author={Jaesung Tae and Hyeongju Kim and Taesu Kim},
+  title={{EdiTTS: Score-based Editing for Controllable Text-to-Speech}},
+  year=2022,
+  booktitle={Proc. Interspeech 2022},
+  pages={421--425},
+  doi={10.21437/Interspeech.2022-6}
 }
 ```
 
